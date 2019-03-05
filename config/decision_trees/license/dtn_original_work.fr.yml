@@ -1,0 +1,7 @@
+---
+question: "Votre photo est-elle une œuvre originale ?"
+answers:
+  - text: "Oui"
+    target: "dtn_status"
+  - text: "Non"
+    target: "anode_open_license_odbl"

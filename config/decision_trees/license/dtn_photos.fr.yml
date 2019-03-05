@@ -1,0 +1,9 @@
+---
+question: "Il s'agit de :"
+answers:
+  - text: "Photos de monuments, statues, etc. "
+    target: "dtn_momument_photo"
+  - text: "Photos d'objets "
+    target: "dtn_objects_photos"
+  - text: "Photos de documents (manuscrit, coupure de presse, …)"
+    target: "dtn_documents_photos"

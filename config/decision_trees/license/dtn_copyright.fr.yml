@@ -1,0 +1,7 @@
+---
+question: "Les données produites sont-elles protégées par un droit d'auteur ?"
+answers:
+  - text: "OUI (œuvres)"
+    target: "dtn_copyright_yes"
+  - text: "Non"
+    target: "anode_open_license_odbl"

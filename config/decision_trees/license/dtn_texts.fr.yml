@@ -1,0 +1,7 @@
+---
+question: "Ces données sont-elles des œuvres ?"
+answers:
+  - text: "Oui"
+    target: "dtn_text_are_you_author"
+  - text: "Non"
+    target: "dtn_text_private_founding"

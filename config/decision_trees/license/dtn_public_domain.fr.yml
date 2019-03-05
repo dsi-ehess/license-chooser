@@ -1,0 +1,7 @@
+---
+question: "Cette œuvre est-elle dans le domaine public (70 ans après la mort de l'auteur) ?"
+answers:
+  - text: "Oui"
+    target: "dtn_original_work"
+  - text: "Non"
+    target: "dtn_public_domain_original_work"

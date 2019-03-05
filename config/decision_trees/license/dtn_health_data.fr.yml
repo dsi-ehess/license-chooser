@@ -1,0 +1,7 @@
+---
+question: "D'où dont issues ces données ?"
+answers:
+  - text: "Ces données sont issues de recherches observationnelles ou non interventionnelles."
+    target: "dtn_observation_health_data"
+  - text: "Ces données  sont des données retrospectives (ne portant pas sur des  personnes mais sur des données)."
+    target: "dtn_retrospective_health_data"

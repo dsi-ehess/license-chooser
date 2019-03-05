@@ -1,0 +1,7 @@
+---
+question: "Y-a-t-il possibilité de ré-identification des personnes?"
+answers:
+  - text: "Oui"
+    target: "dtn_person_autor"
+  - text: "Non"
+    target: "anode_free_license"

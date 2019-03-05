@@ -1,0 +1,7 @@
+---
+question: "Avez-vous obtenu l'autorisation de diffusion des ayant.s droit.s de l'œuvre photographiée ?"
+answers:
+  - text: "Oui"
+    target: "anode_no_reuse"
+  - text: "Non"
+    target: "anode_no_diffusion"

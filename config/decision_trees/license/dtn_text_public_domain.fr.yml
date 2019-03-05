@@ -1,0 +1,7 @@
+---
+question: "Ces œuvres sont-elles dans le domaine public (70 ans après la mort de l'auteur) ? "
+answers:
+  - text: "Oui"
+    target: "anode_open_license_odbl"
+  - text: "Non"
+    target: "dtn_right_owners_authorization"

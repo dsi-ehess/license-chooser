@@ -1,0 +1,7 @@
+---
+question: "Les données sont-elles anonymisées?"
+answers:
+  - text: "Oui"
+    target: "anode_free_license"
+  - text: "Non"
+    target: "dtn_reidentification"

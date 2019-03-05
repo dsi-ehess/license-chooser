@@ -1,0 +1,7 @@
+---
+question: "Votre photo est-elle une œuvre originale ?"
+answers:
+  - text: "Oui = 'œuvre dérivée'"
+    target: "dtn_right_owners_authorization"
+  - text: "Non"
+    target: "anode_right_owners_no_diffusion"

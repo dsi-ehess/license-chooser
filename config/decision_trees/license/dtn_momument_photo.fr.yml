@@ -1,0 +1,7 @@
+---
+question: "Le monument ou l'œuvre (statue, ...) est-elle implantée de manière permanente dans un lieu public ? "
+answers:
+  - text: "Oui"
+    target: "dtn_public_momument_photos"
+  - text: "Non"
+    target: "anode_right_owners_no_diffusion"

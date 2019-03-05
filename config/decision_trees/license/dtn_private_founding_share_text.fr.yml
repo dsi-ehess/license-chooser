@@ -1,0 +1,7 @@
+---
+question: "Ce financement représente-il plus de 50% du financement total du projet ?"
+answers:
+  - text: "Oui"
+    target: "anode_founding_convention"
+  - text: "Non"
+    target: "anode_open_license_odbl"

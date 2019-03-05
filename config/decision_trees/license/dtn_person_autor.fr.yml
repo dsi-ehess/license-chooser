@@ -1,0 +1,7 @@
+---
+question: "Avez-vous obtenu une autorisation de diffusion des données par la/les personne.s concernée.s ?"
+answers:
+  - text: "Oui"
+    target: "anode_no_reuse"
+  - text: "Non"
+    target: "anode_pers_autor_required"

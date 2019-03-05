@@ -1,0 +1,7 @@
+---
+question: "Êtes-vous le seul auteur des données/œuvres produites ?"
+answers:
+  - text: "Oui"
+    target: "dtn_status"
+  - text: "Non"
+    target: "dtn_other_authors"

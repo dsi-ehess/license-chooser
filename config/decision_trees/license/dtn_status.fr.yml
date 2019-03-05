@@ -1,0 +1,7 @@
+---
+question: "Quel est votre statut ?"
+answers:
+  - text: "Personnel IT, enseignant-chercheur d'université/école"
+    target: "anode_employer"
+  - text: "Chercheur CNRS"
+    target: "anode_cnrs_researcher"

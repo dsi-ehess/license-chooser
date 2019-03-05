@@ -1,0 +1,7 @@
+---
+question: "Vos données contiennent-elles des données personnelles"
+answers:
+  - text: "Oui"
+    target: "dtn_anon"
+  - text: "Non."
+    target: "anode_website_cgu"

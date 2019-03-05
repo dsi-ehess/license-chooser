@@ -1,0 +1,7 @@
+---
+question: "Avez-vous obtenu une autorisation de diffusion des données par la/les ayant.s droit.s ?"
+answers:
+  - text: "Oui"
+    target: "anode_right_owners_agreement"
+  - text: "Non"
+    target: "anode_right_owners_no_diffusion"

@@ -1,0 +1,7 @@
+---
+question: "L'objet photographié est-il une œuvre ?"
+answers:
+  - text: "Oui"
+    target: "dtn_public_domain"
+  - text: "Non"
+    target: "dtn_original_work"

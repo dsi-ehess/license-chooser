@@ -1,0 +1,7 @@
+---
+question: "Y-a-t-il des personnes reconnaissables sur ces photos ?"
+answers:
+  - text: "Oui"
+    target: "dtn_person_autor"
+  - text: "Non"
+    target: "anode_pers_autor_required"

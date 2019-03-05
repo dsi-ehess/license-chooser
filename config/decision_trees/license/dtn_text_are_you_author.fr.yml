@@ -1,0 +1,7 @@
+---
+question: "Êtes-vous l'auteur de ces œuvres ?"
+answers:
+  - text: "Oui"
+    target: "dtn_status"
+  - text: "Non"
+    target: "dtn_text_public_domain"

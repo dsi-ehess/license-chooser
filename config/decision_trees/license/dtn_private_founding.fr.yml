@@ -1,0 +1,7 @@
+---
+question: "Avez-vous obtenu un financement privé pour la production de ces données ?"
+answers:
+  - text: "Oui"
+    target: "dtn_private_founding_share"
+  - text: "Non"
+    target: "dtn_copyright"
