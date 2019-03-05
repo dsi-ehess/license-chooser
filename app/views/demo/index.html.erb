@@ -1,16 +1,12 @@
-<div class="container">
-  <div class="row">
-    <div class="col-lg-12 text-center">
-      <h1 class="mt-5">Licence choice assistant demonstration</h1>
-      <p class="lead">This tool is intended for researchers who deposit data on a web repository: it helps them to
-        determine if they are allowed to publish this data and if so, under what license.</p>
-      <p class="lead">As a ruby gem, it can integrate with applications developed under Rails such as: Samvera / Hyrax,
-        Opidor..</p>
-      <h2>Interactive version</h2>
-      <%= render("accessible/decision/tree/assistant", config: "license", node: 'dtn_start', start_text: t(".help_me_choose_the_right_licence")) %>
-      <h2>HTML-only behavior (accessible)</h2>
-      <%= render("no_js_assistant", config: "license", node: 'dtn_start', start_text: t(".help_me_choose_the_right_licence_with_a_screen_reader")) %>
-
-    </div>
-  </div>
-</div>
+<main role="main" class="container">
+  <h1 class="mt-5">Licence choice assistant demonstration</h1>
+  <p class="lead">This tool is intended for researchers who deposit data on a web repository: it helps them to
+    determine if they are allowed to publish this data and if so, under what license.</p>
+  <p class="lead">As a ruby gem, it can integrate with applications running under Rails such as: <a href="http://hyr.ax/">Samvera/Hyrax</a>,
+    <a href="https://dmp.opidor.fr">Opidor</a>.</p>
+  <h2>Interactive version</h2>
+  <%= render("accessible/decision/tree/assistant", config: "license", node: 'dtn_start', start_text: t(".help_me_choose_the_right_licence")) %>
+  <h2>HTML-only behavior (accessible)</h2>
+  <%= render("no_js_assistant", config: "license", node: 'dtn_start', start_text: t(".help_me_choose_the_right_licence_with_a_screen_reader")) %>
+  <br/><br/><br/><br/><br/>
+</main>
